@@ -8,6 +8,7 @@ title: Reading List
 * 《Principles by Ray Dalio》
 * 《Choose Yourself》
 * 《Beat the street》
+* 《The algorithm to live by》
 
 
 
