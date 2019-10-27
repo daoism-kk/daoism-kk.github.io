@@ -7,6 +7,7 @@ title: 2019/10/27 weekly digest
 ## 读书笔记
 
 ###《彼得林奇的成功投资》
+
 微信读书上断断续续读完了这本书可以算是价值投资入门的小书，很多概念对我来说都比较熟悉了，比较有印象的几个点：
 
 * 企业可以分成六类：
@@ -20,7 +21,7 @@ title: 2019/10/27 weekly digest
 * 一个简单计算股票投资价值的方法，用现金等价物减去长期负债，除以总股本，这可以看作股票的现金价值，计算市盈率的时候用股价减去这个值才是真的PE。
 * 对于快速成长型（讲故事-中概股），林奇的原则是
 
-	> 	如果公司只有成功的可能而事实上还没有做到非常成功，那么就根本不要购买它们的股票
+	>  如果公司只有成功的可能而事实上还没有做到非常成功，那么就根本不要购买它们的股票
 	
 * 不要“拔掉鲜花浇灌野草”，不要根据股票的涨跌幅来决定卖出，而是根据公司基本面的变化来调整组合（价值投资基本原则）
 
@@ -28,7 +29,7 @@ title: 2019/10/27 weekly digest
 
 ### 《六朝道教上清派研究》
 
-这本其实不难算书，感觉应该是作者的一篇论文，埋藏在我的豆列里好多年。。。
+这本其实不能算书，感觉应该是作者的一篇论文，埋藏在我的豆列里好多年。。。
 上清派是一个特别有神仙范儿的派别，又产生在南北朝这种出世的年代，可以说是神秘+神秘了。
 
 * 上清派的起因，在于道教需要融入上层社会，就必须革除太平道和五斗米道这种杂糅了很多地方巫术的修炼体系和武装集团化的弊端。
@@ -44,7 +45,7 @@ title: 2019/10/27 weekly digest
 ## 碎碎念
 最近看到奥巴马的一段话，分享给大家，“工作”使人快乐：
 
-> If you only focus on your personal gain and loss, you will always feel unfair. Because life is never fair. But if you focus on the work you do, you know there is always some work needs to be done. And you will feel happier.
+>  If you only focus on your personal gain and loss, you will always feel  unfair. Because life is never fair. But if you focus on the work you do, you know there is always some work needs to be done. And you will feel happier.
 Focus on your own happiness.
 
 
