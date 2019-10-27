@@ -5,8 +5,7 @@ title: 2019/10/27 weekly digest
 这周给人的感觉非常忙碌，仔细回想，都记不起来干了什么（好吧，其实是在准备数据和开各种会）。发现一个比较大的问题，平时要安排出阅读/学习和思考的时间，在不付出努力的情况下，实在是不可能自然发生。下一周可能可以开始尝试早上阅读半个小时的安排（考虑到晚上有可能举铁，回来时间不够）。
 
 ## 读书笔记
-
-###《彼得林奇的成功投资》
+### 《彼得林奇的成功投资》
 
 微信读书上断断续续读完了这本书可以算是价值投资入门的小书，很多概念对我来说都比较熟悉了，比较有印象的几个点：
 
@@ -45,7 +44,8 @@ title: 2019/10/27 weekly digest
 ## 碎碎念
 最近看到奥巴马的一段话，分享给大家，“工作”使人快乐：
 
->  If you only focus on your personal gain and loss, you will always feel  unfair. Because life is never fair. But if you focus on the work you do, you know there is always some work needs to be done. And you will feel happier.
-Focus on your own happiness.
+>  If you only focus on your personal gain and loss, you will always feel  unfair. 
+> Because life is never fair. But if you focus on the work you do, you know there is always some work needs to be done.
+>  And you will feel happier.Focus on your own happiness.
 
 
