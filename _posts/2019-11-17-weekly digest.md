@@ -2,7 +2,7 @@
 layout: post
 title: 2019/11/17 weekly digest
 ---
-![题图](https://github.com/daoism-kk/blog_pic/blob/master/WechatIMG27.jpeg)
+![题图](https://raw.githubusercontent.com/daoism-kk/blog_pic/master/WechatIMG27.jpeg)
 这周锻炼次数只有2次，从一个侧面反映出平时的空闲时间越来越少了
 
 ## 读书记录
