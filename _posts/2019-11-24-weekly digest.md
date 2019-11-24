@@ -2,6 +2,8 @@
 layout: post
 title: 2019/11/24 weekly digest
 ---
+![题图](https://raw.githubusercontent.com/daoism-kk/blog_pic/master/%E5%8D%97%E4%BA%AC%E7%85%A7%E7%89%872.jpeg)
+
 如何让自己更高效的完成任务，利用好时间，真是一个长期的课题（对，我就是懒）
 
 ## 读书笔记
