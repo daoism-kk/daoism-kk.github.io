@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2019/11/24 weekly digest
+title: 2019-11-24 weekly digest
 ---
 ![题图](https://raw.githubusercontent.com/daoism-kk/blog_pic/master/%E5%8D%97%E4%BA%AC%E7%85%A7%E7%89%872.jpeg)
 
