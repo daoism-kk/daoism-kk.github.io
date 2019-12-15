@@ -3,7 +3,6 @@ layout: post
 title: 2019-12-08 weekly digest
 ---
 ![题图](https://raw.githubusercontent.com/daoism-kk/blog_pic/master/%E6%9D%8E%E5%AD%90%E6%9F%92.png)
-# weekly digest 2019/12/08
 这周公司算是有个好消息，希望是顺利的开端。
 
 ## 读书笔记
